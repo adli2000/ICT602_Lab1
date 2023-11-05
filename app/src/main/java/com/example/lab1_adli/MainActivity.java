@@ -52,4 +52,5 @@ public class MainActivity extends AppCompatActivity {
     //am useless
     // malim gunung
     // malim gunung
+    // umar lowit
 }

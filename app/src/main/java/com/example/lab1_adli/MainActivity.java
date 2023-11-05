@@ -50,4 +50,5 @@ public class MainActivity extends AppCompatActivity {
         etName.setText(""); // Clear the EditText
     }
     //am useless
+    // malim gunung
 }

@@ -49,4 +49,5 @@ public class MainActivity extends AppCompatActivity {
         tvMessage.setText(initialText); // Reset TextView to the initial text
         etName.setText(""); // Clear the EditText
     }
+    //am useless
 }
